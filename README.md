@@ -32,3 +32,8 @@ gulp.task('hello-world', function() {
 	console.log('My First Task running...');
 });
 ```
+
+Now, run the task on your terminal:
+```bash
+$ gulp hello-world
+```
